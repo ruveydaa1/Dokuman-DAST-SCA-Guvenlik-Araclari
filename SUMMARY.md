@@ -1,6 +1,7 @@
 # Table of contents
 
-* [DAST](README.md)
+* [DAST ve SCA Güvenlik Araçları](README.md)
+* [DAST](<README (1).md>)
 * [OWASP ZAP](owasp-zap.md)
 * [SCA](sca.md)
 * [TRİVY](trivy.md)
